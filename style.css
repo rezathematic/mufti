@@ -132,7 +132,7 @@ body {
     
   #left {
       grid-area: left;
-      background-image: url(/images/navleft.jpg);
+      background-image: url(images/navleft.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
@@ -246,7 +246,7 @@ body {
     height: 100vh;
     width: 100%;
     background-color: #F6F4F2;
-    background: url(/images/topbg.jpg) no-repeat;     
+    background: url(images/topbg.jpg) no-repeat;     
     background-size: cover;
     background-position: 40% 35%;
     scroll-snap-align: start;
@@ -353,7 +353,7 @@ body {
 .newarrivalimage {
     grid-area: heroarrival;
     margin: 36px 50px;
-    background-image: url(/images/springhero.jpg);
+    background-image: url(images/springhero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -372,7 +372,7 @@ body {
 }
 
 .div1 {
-    background-image: url(/images/1.jpg);
+    background-image: url(images/1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -380,7 +380,7 @@ body {
 }
 
 .div2 {
-    background-image: url(/images/2.jpg);
+    background-image: url(images/2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -388,7 +388,7 @@ body {
 }
 
 .div3 {
-    background-image: url(/images/3.jpg);
+    background-image: url(images/3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -396,7 +396,7 @@ body {
 }
 
 .div4 {
-    background-image: url(/images/4.jpg);
+    background-image: url(images/4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 38%;
@@ -766,7 +766,7 @@ footer a:hover {
 
 .newarrival {
   display: flex;
-  background-image: url(/images/springhero.jpg);
+  background-image: url(images/springhero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
